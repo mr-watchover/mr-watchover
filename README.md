@@ -1,6 +1,6 @@
 <!-- Header Section with Animated GIF Banner -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I%27m+Mohammad+Mustafa;Full+Stack+%26+Systems+Developer;Problem+Solver+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=Y%C5%8Dkoso+Welcome+|+I+am+Mohammad+Mustafa;Full+Stack+%26+Systems+Developer;Problem+Solver+%F0%9F%92%BB" alt="Typing SVG" />
 </div>
 
 ---
