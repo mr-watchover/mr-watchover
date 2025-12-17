@@ -149,9 +149,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-watchover&theme=dark&hide_border=false&layout=compact" alt="Top Languages" height="180"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-watchover&theme=dark&hide_border=false" alt="GitHub Streak" />
-</div>
 
 ---
 
@@ -182,11 +179,6 @@
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mr-watchover&theme=dark&no-frame=false&no-bg=true&margin-w=4" />
-</div>
-
 ---
 
 ## 💡 Latest Activity
