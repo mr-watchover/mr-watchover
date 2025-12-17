@@ -1,27 +1,205 @@
-# 💫 About Me:
-Hi there, I'm Mohammad Mustafa 👋<br>Computer Science Student @ Chandigarh University | Problem Solver | Systems & Full-Stack Developer<br><br>I'm a passionate learner who loves building solutions to real-world problems. My focus is on understanding how things work under the hood—from file systems and compression algorithms to web applications and access control systems.<br><br>🚀 What I'm About<br>I believe in writing clean, efficient code that solves meaningful problems. I'm particularly interested in:<br><br>Systems Programming – File management, compression, multithreading<br>Data Structures & Algorithms – Optimizing for performance and correctness<br>Full-Stack Development – Building complete applications from backend to UI<br>Security & Access Control – Understanding RBAC and permission systems<br>Compiler Design & Language Concepts – How programs are parsed and executed
-
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mr.watchover) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohammad-mustafa-karam-khalid-532431284/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/Mustafa-Karam) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/mrwatchover_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mustafakaram555@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Proto.io](https://img.shields.io/badge/Proto.io-161637?style=for-the-badge&logo=proto.io&logoColor=00e5ff) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Square Enix](https://img.shields.io/badge/SquareEnix-%23ED1C24.svg?style=for-the-badge&logo=SquareEnix&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mr-watchover&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mr-watchover&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-watchover&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mr-watchover&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mr-watchover&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<!-- Header Section with Animated GIF Banner -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I%27m+Mohammad+Mustafa;Full+Stack+%26+Systems+Developer;Problem+Solver+%F0%9F%92%BB" alt="Typing SVG" />
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mr-watchover&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## ✨ About Me
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🚀 Who I Am</h3>
+      <ul>
+        <li>👨‍💻 <b>Computer Science Student</b> @ Chandigarh University</li>
+        <li>🧠 <b>Passionate Problem Solver</b> - Building real-world solutions</li>
+        <li>😀 <b>Systems & Full-Stack Developer</b> - From backend to UI</li>
+        <li>📚 <b>Eager Learner</b> - Always exploring new technologies</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100%" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🎯 What I'm Passionate About
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="25%">
+        <img src="https://media.giphy.com/media/WZaCXnsCKwEf4rHLYY/giphy.gif" width="80px"/>
+        <br/>
+        <b>Systems Programming</b>
+        <br/>
+        File Ops & Compression
+      </td>
+      <td align="center" width="25%">
+        <img src="https://media.giphy.com/media/ImmqP0d7PuzDA9V4Xx/giphy.gif" width="80px"/>
+        <br/>
+        <b>Data Structures</b>
+        <br/>
+        Performance Optimization
+      </td>
+      <td align="center" width="25%">
+        <img src="https://media.giphy.com/media/lDo6rI6mUTG2VIKc0x/giphy.gif" width="80px"/>
+        <br/>
+        <b>Full-Stack Dev</b>
+        <br/>
+        Complete Applications
+      </td>
+      <td align="center" width="25%">
+        <img src="https://media.giphy.com/media/SnLd2rnlXYS4VGxuMB/giphy.gif" width="80px"/>
+        <br/>
+        <b>Security & Access</b>
+        <br/>
+        RBAC & Permissions
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🚀 Tech Stack
+
+### Languages
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+
+### Backend
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+
+---
+
+## 📋 Featured Projects
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3>🏢 Hostel Management System</h3>
+        <p>Full-stack Java solution for hostel operations</p>
+        <p>📝 Built with: <b>Java | MySQL | HTML/CSS</b></p>
+        <a href="https://github.com/mr-watchover/Project_Hostel_Management_Java">
+          <img src="https://img.shields.io/badge/View%20Project-%23FF6B9D?style=for-the-badge&logo=github" />
+        </a>
+      </td>
+      <td width="50%">
+        <h3>🔐 Role-Based Access Control</h3>
+        <p>Secure full-stack authentication system</p>
+        <p>📝 Built with: <b>React | Express | JWT</b></p>
+        <a href="https://github.com/mr-watchover/FullStack-Role_Based_Access_Control">
+          <img src="https://img.shields.io/badge/View%20Project-%2320232a?style=for-the-badge&logo=react" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3>📂 File Management Tool</h3>
+        <p>Efficient file operations with modern C++</p>
+        <p>📝 Built with: <b>C++ | File Systems</b></p>
+        <a href="https://github.com/mr-watchover/FILE-MANAGEMENT-TOOL-_1">
+          <img src="https://img.shields.io/badge/View%20Project-%2300599C?style=for-the-badge&logo=cplusplus" />
+        </a>
+      </td>
+      <td width="50%">
+        <h3>⚡ Multithreaded Compression</h3>
+        <p>High-performance concurrent file compression</p>
+        <p>📝 Built with: <b>C++ | Multithreading</b></p>
+        <a href="https://github.com/mr-watchover/MULTITHREADED-FILE-COMPRESSION-TOOL_2">
+          <img src="https://img.shields.io/badge/View%20Project-%2300599C?style=for-the-badge&logo=cplusplus" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mr-watchover&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-watchover&theme=dark&hide_border=false&layout=compact" alt="Top Languages" height="180"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-watchover&theme=dark&hide_border=false" alt="GitHub Streak" />
+</div>
+
+---
+
+## 📧 Connect With Me
+
+<div align="center">
+  <a href="https://linkedin.com/in/mohammad-mustafa-karam-khalid-532431284/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/mrwatchover_" target="_blank">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" />
+  </a>
+  <a href="https://discord.gg/mr.watchover" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="mailto:mustafakaram555@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://quora.com/profile/Mustafa-Karam" target="_blank">
+    <img src="https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=quora&logoColor=white" />
+  </a>
+</div>
+
+---
+
+## 🔮 Fun Stats
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mr-watchover&theme=dark&no-frame=false&no-bg=true&margin-w=4" />
+</div>
+
+---
+
+## 💡 Latest Activity
+
+- 🤝 Always looking to collaborate on innovative projects
+- 📖 Currently expanding my knowledge in Systems Programming
+- 🚀 Open to opportunities in Full-Stack & Backend Development
+- 🛠️ Ask me about File Systems, C++, Web Security, or anything tech!
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mr-watchover&label=Profile%20views&color=ff6b9d&style=flat" alt="Profile Views" />
+  <br/>
+  <b>Thanks for visiting! ✨ Feel free to reach out and connect! 🚀</b>
+</div>
