@@ -1,97 +1,27 @@
-# Hi there, I'm Mohammad Mustafa 👋
+# 💫 About Me:
+Hi there, I'm Mohammad Mustafa 👋<br>Computer Science Student @ Chandigarh University | Problem Solver | Systems & Full-Stack Developer<br><br>I'm a passionate learner who loves building solutions to real-world problems. My focus is on understanding how things work under the hood—from file systems and compression algorithms to web applications and access control systems.<br><br>🚀 What I'm About<br>I believe in writing clean, efficient code that solves meaningful problems. I'm particularly interested in:<br><br>Systems Programming – File management, compression, multithreading<br>Data Structures & Algorithms – Optimizing for performance and correctness<br>Full-Stack Development – Building complete applications from backend to UI<br>Security & Access Control – Understanding RBAC and permission systems<br>Compiler Design & Language Concepts – How programs are parsed and executed
 
-**Computer Science Student @ Chandigarh University** | Problem Solver | Systems & Full-Stack Developer
 
-I'm a passionate learner who loves building solutions to real-world problems. My focus is on understanding how things work under the hood—from file systems and compression algorithms to web applications and access control systems.
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mr.watchover) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohammad-mustafa-karam-khalid-532431284/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/Mustafa-Karam) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/mrwatchover_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mustafakaram555@gmail.com) 
 
----
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Proto.io](https://img.shields.io/badge/Proto.io-161637?style=for-the-badge&logo=proto.io&logoColor=00e5ff) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Square Enix](https://img.shields.io/badge/SquareEnix-%23ED1C24.svg?style=for-the-badge&logo=SquareEnix&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mr-watchover&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=mr-watchover&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-watchover&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🚀 What I'm About
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mr-watchover&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-I believe in writing **clean, efficient code** that solves meaningful problems. I'm particularly interested in:
-- **Systems Programming** – File management, compression, multithreading
-- **Data Structures & Algorithms** – Optimizing for performance and correctness
-- **Full-Stack Development** – Building complete applications from backend to UI
-- **Security & Access Control** – Understanding RBAC and permission systems
-- **Compiler Design & Language Concepts** – How programs are parsed and executed
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
----
-
-## 🛠️ Tech Stack
-
-**Languages:**
-- C++ (systems programming, DSA)
-- Java (full-stack, enterprise applications)
-- JavaScript/HTML/CSS (web development)
-
-**Tools & Concepts:**
-- Git & Version Control
-- Linux & Command Line
-- Multithreading & Concurrency
-- Database Design
-- Problem Solving & Optimization
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=mr-watchover&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=mr-watchover&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📌 Featured Projects
-
-### 🗂️ **File Management Tool**
-A comprehensive file system utility built in C++. Features recursive directory operations, file searching, and metadata analysis. Demonstrates systems programming best practices.
-- *Skills: C++, File I/O, Systems Design*
-
-### ⚙️ **Multithreaded Compression Tool**
-A high-performance compression utility using multithreading for parallel compression/decompression. Showcases performance optimization and thread synchronization.
-- *Skills: C++, Multithreading, Algorithms*
-
-### 🎮 **Snake Game (Game Development)**
-A graphical game implementation demonstrating game loop design, graphics rendering, and real-time input handling.
-- *Skills: C++, Graphics, Game Logic*
-
-### 🔨 **Compiler Design Basics**
-Foundational compiler components including lexical analysis and parsing. Understanding how code becomes execution.
-- *Skills: C++, Parsing, Language Theory*
-
-### 🏨 **Hostel Management System**
-Full-stack Java application with database integration. Real-world problem solving with complete CRUD operations and user management.
-- *Skills: Java, SQL, Full-Stack Development*
-
-### 🔐 **Role-Based Access Control (RBAC)**
-Secure application with granular permission management. Demonstrates security best practices and access control implementation.
-- *Skills: JavaScript, Security, System Design*
-
----
-
-## 🎯 Currently Learning
-
-- Advanced Data Structures and their real-world applications
-- Operating System internals and kernel programming
-- Backend optimization and scalable system design
-- Contributing to open-source projects
-
----
-
-## 📊 My Approach
-
-✅ **Write maintainable code** with clear documentation  
-✅ **Focus on understanding** rather than memorization  
-✅ **Optimize for performance** without sacrificing readability  
-✅ **Solve problems systematically** by breaking them into smaller parts  
-✅ **Learn from every project** and apply lessons to the next  
-
----
-
-## 📫 Let's Connect
-
-- 💼 **Looking for:** Internships, collaborative projects, open-source opportunities
-- 🤝 **Interested in:** Systems programming, competitive problem-solving, mentorship
-- 📧 **Reach out:** Feel free to explore my repositories and connect!
-
----
-
-## 📈 GitHub Stats
-
-![GitHub contribution streak](https://img.shields.io/badge/Contributions-96%20last%20year-brightgreen)
-
----
-
-**Always eager to solve problems. Always learning. Let's build something amazing together!** 🚀
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
