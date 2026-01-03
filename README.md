@@ -32,28 +32,28 @@
   <table>
     <tr>
       <td align="center" width="25%">
-        <img src="https://media.giphy.com/media/WZaCXnsCKwEf4rHLYY/giphy.gif" width="80px"/>
+        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="80px"/>
         <br/>
         <b>Systems Programming</b>
         <br/>
         File Ops & Compression
       </td>
       <td align="center" width="25%">
-        <img src="https://media.giphy.com/media/ImmqP0d7PuzDA9V4Xx/giphy.gif" width="80px"/>
+        <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="80px"/>
         <br/>
         <b>Data Structures</b>
         <br/>
         Performance Optimization
       </td>
       <td align="center" width="25%">
-        <img src="https://media.giphy.com/media/lDo6rI6mUTG2VIKc0x/giphy.gif" width="80px"/>
+        <img src="https://media.giphy.com/media/Y4ak9BC7KwW5mjkcRk/giphy.gif" width="80px"/>
         <br/>
         <b>Full-Stack Dev</b>
         <br/>
         Complete Applications
       </td>
       <td align="center" width="25%">
-        <img src="https://media.giphy.com/media/SnLd2rnlXYS4VGxuMB/giphy.gif" width="80px"/>
+        <img src="https://media.giphy.com/media/cn0Ew87pJQDwXgOEd2/giphy.gif" width="80px"/>
         <br/>
         <b>Security & Access</b>
         <br/>
