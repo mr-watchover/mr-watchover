@@ -45,7 +45,7 @@
         Performance Optimization
       </td>
       <td align="center" width="25%">
-        <img src="https://media.giphy.com/media//giphy.gif" width="80px"/>
+        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="80px"/>
         <br/>
         <b>Full-Stack Dev</b>
         <br/>
