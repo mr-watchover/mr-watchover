@@ -53,7 +53,7 @@
         Complete Applications
       </td>
       <td align="center" width="25%">
-        <img src="https://media.giphy.com/media/VgGthkhACLrMqD13an/giphy.gif" width="80px"/>
+        <img src="https://media.giphy.com/media/ua7vVw9awZKWwLSYpW/giphy.gif" width="80px"/>
         <br/>
         <b>Security & Access</b>
         <br/>
