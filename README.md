@@ -6,7 +6,6 @@
 ---
 
 ## ✨ About Me
-qgQUggAC3Pfv687qPC
 <table>
   <tr>
     <td width="50%">
