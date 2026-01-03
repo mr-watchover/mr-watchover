@@ -6,7 +6,7 @@
 ---
 
 ## ✨ About Me
-
+du3vudbeCAqew5A
 <table>
   <tr>
     <td width="50%">
@@ -46,7 +46,7 @@
         Performance Optimization
       </td>
       <td align="center" width="25%">
-        <img src="https://media.giphy.com/media/Y4ak9BC7KwW5mjkcRk/giphy.gif" width="80px"/>
+        <img src="https://media.giphy.com/media//giphy.gif" width="80px"/>
         <br/>
         <b>Full-Stack Dev</b>
         <br/>
