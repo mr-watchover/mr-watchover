@@ -135,7 +135,6 @@
           <img src="https://img.shields.io/badge/View%20Project-%2300599C?style=for-the-badge&logo=cplusplus" />
         </a>
       </td>
-    </tr>
   </table>
 </div>
 
@@ -144,8 +143,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mr-watchover&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-watchover&theme=dark&hide_border=false&layout=compact" alt="Top Languages" height="180"/>
+  <img src="https://github-stats-lovat.vercel.appusername=mr-watchover&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" height="180"/>
+  <img src="https://github-stats-lovat.vercel.apptop-langs/?username=mr-watchover&theme=dark&hide_border=false&layout=compact" alt="Top Languages" height="180"/>
 </div>
 
 
